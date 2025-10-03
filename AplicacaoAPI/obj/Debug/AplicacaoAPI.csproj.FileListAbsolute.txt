@@ -1,0 +1,13 @@
+C:\ProjetoBrendo\AplicacaoAPI\bin\Debug\AplicacaoAPI.exe.config
+C:\ProjetoBrendo\AplicacaoAPI\bin\Debug\AplicacaoAPI.exe
+C:\ProjetoBrendo\AplicacaoAPI\bin\Debug\AplicacaoAPI.pdb
+C:\ProjetoBrendo\AplicacaoAPI\bin\Debug\Newtonsoft.Json.dll
+C:\ProjetoBrendo\AplicacaoAPI\bin\Debug\Newtonsoft.Json.xml
+C:\ProjetoBrendo\AplicacaoAPI\obj\Debug\AplicacaoAPI.csproj.AssemblyReference.cache
+C:\ProjetoBrendo\AplicacaoAPI\obj\Debug\AplicacaoAPI.Form1.resources
+C:\ProjetoBrendo\AplicacaoAPI\obj\Debug\AplicacaoAPI.Properties.Resources.resources
+C:\ProjetoBrendo\AplicacaoAPI\obj\Debug\AplicacaoAPI.csproj.GenerateResource.cache
+C:\ProjetoBrendo\AplicacaoAPI\obj\Debug\AplicacaoAPI.csproj.CoreCompileInputs.cache
+C:\ProjetoBrendo\AplicacaoAPI\obj\Debug\Aplicaca.EBBC5D78.Up2Date
+C:\ProjetoBrendo\AplicacaoAPI\obj\Debug\AplicacaoAPI.exe
+C:\ProjetoBrendo\AplicacaoAPI\obj\Debug\AplicacaoAPI.pdb
